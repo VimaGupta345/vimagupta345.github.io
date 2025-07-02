@@ -1,6 +1,6 @@
 ## About Me
 
-I am a first year PhD student working on Systems for ML, in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am fortunate to be advised by [Dr. Anand Iyer](https://www.anand-iyer.com/) and [Dr. Ada Gavrilovska](https://sites.cc.gatech.edu/home/ada/). I am currently building robust systems for computationally expensive foundational models like LLMs. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for large models.
+I am a first year PhD student working on Systems for ML, in <a href="https://www.cc.gatech.edu/" target="_blank">College of Computing</a> at <a href="https://www.gatech.edu/" target="_blank">Georgia Institute of Technology</a>. I am fortunate to be advised by [Dr. Anand Iyer](https://www.anand-iyer.com/). I am currently building robust systems for computationally expensive foundational models like LLMs. My ongoing projects and coursework are aligned towards creating a foundational understanding of distributed systems for large models.
 
 ### Ongoing Research
 
